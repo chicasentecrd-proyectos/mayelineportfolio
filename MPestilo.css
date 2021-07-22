@@ -1,0 +1,52 @@
+body {
+    background-image: linear-gradient(to bottom right, #d4f1f485, #75e6db57);
+    font-family: monospace;
+    font-size: 170%;
+}
+
+
+img {
+    float: right;
+    width: 250px;
+    height: 200px;
+}
+
+
+button {
+    background-color: #05445E;
+    border: #05445E;
+    color: white;
+    padding: 15px;
+    font-family: monospace;
+}
+
+.proyectos {
+    background-color: #189AB4;
+    border: gray solid 1px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#contenedorProyectos {
+    text-align: center;
+    background-color: turquoise;
+}
+
+#tituloDestacados {
+    background-color: turquoise;
+    text-align: center;
+}
+
+#encabezado {
+    background-color: #05445E;
+    color: white;
+    text-align: center;
+}
+
+#bio {
+    overflow: auto;
+    border: #189AB4 solid 10px;
+    text-align: center;
+}
+
+
